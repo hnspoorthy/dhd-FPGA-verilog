@@ -1,4 +1,4 @@
-# dhd
+# dhd: Digital Hardware Design
 
 Game_Details.pdf contains the details of the game, user controls and features of the game.
 bb.xdc file contains the contraint file for Xilinx Basys 3 board.
